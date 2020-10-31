@@ -1,3 +1,3 @@
-# GraphQL Learning using React and calling on the Pokemon API
+# GraphQL using React and calling on the Pokemon API
 
 Live Site: Coming soon...
